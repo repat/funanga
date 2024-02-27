@@ -19,6 +19,8 @@
 I've kept things mainly the Laravel way, which is extensively documented here: [Laravel Docs](https://laravel.com/docs/10.x).
 
 ## Tasks
+See also: `Developer Task (1).pdf`
+
 ### Task 1
 ```sh
 1. Implement a single login web page:
